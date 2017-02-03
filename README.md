@@ -1,10 +1,9 @@
 # MTH-308
 Scientific Computing course at IIT Kanpur.
 
-Year - 2017
+<b>Year</b> - 2017
 
-Semester - Winter(Jan-May)
+<b>Semester</b> - Winter(Jan-May)
 
-Professor - Akash Anand
+<b>Professor</b> - Akash Anand
 
-Contains assignment solutions and mini project work done during the course.
